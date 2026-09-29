@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CITA255_Assignment_01.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30"
+            Spacing="25">
+            <Image
+                Source="solly.jpg"
+                HeightRequest="185"
+                Aspect="AspectFit"
+                SemanticProperties.Description="dot net bot in a submarine number ten" />
+
+            <Label
+                Text="Solomon Rayland"
+                FontFamily="Achafont"
+                FontSize="75"
+                Style="{StaticResource Headline}"
+                SemanticProperties.HeadingLevel="Level1" />
+
+            <Label
+                Text="My major is Game Programming"
+                FontFamily="Achafexp"
+                FontSize="30"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+            <Label
+                Text="My Birthday is September 18th"
+                FontFamily="Achafexp"
+                FontSize="30"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+
+            <Entry
+                x:Name="CounterEntry"
+                Placeholder="Type Any Number"
+                FontFamily="Achafsex"
+                />
+
+            <Button
+                x:Name="CounterBtn"
+                Text="Click to Register Number" 
+                SemanticProperties.Hint="Calculates the number of hours and minutes in the number typed in days"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Center" />
+
+            <Label
+                x:Name="HoursAndMinutes"
+                Text=""
+                FontFamily="Achafexp"
+                FontSize="30"
+                Style="{StaticResource SubHeadline}"
+                SemanticProperties.HeadingLevel="Level2"
+                SemanticProperties.Description="Welcome to dot net Multi platform App U I" />
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

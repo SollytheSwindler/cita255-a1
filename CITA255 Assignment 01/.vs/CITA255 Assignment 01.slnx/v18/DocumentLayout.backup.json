@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solly\\source\\repos\\CITA255 Assignment 01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A063D-8747-8338-4A02-96C663C99B3A}|CITA255 Assignment 01\\CITA255 Assignment 01.csproj|c:\\users\\solly\\source\\repos\\cita255 assignment 01\\cita255 assignment 01\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3F7A063D-8747-8338-4A02-96C663C99B3A}|CITA255 Assignment 01\\CITA255 Assignment 01.csproj|solutionrelative:cita255 assignment 01\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A063D-8747-8338-4A02-96C663C99B3A}|CITA255 Assignment 01\\CITA255 Assignment 01.csproj|c:\\users\\solly\\source\\repos\\cita255 assignment 01\\cita255 assignment 01\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7A063D-8747-8338-4A02-96C663C99B3A}|CITA255 Assignment 01\\CITA255 Assignment 01.csproj|solutionrelative:cita255 assignment 01\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F7A063D-8747-8338-4A02-96C663C99B3A}|CITA255 Assignment 01\\CITA255 Assignment 01.csproj|c:\\users\\solly\\source\\repos\\cita255 assignment 01\\cita255 assignment 01\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F7A063D-8747-8338-4A02-96C663C99B3A}|CITA255 Assignment 01\\CITA255 Assignment 01.csproj|solutionrelative:cita255 assignment 01\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\solly\\source\\repos\\CITA255 Assignment 01\\CITA255 Assignment 01\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "CITA255 Assignment 01\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\solly\\source\\repos\\CITA255 Assignment 01\\CITA255 Assignment 01\\MauiProgram.cs",
+              "RelativeToolTip": "CITA255 Assignment 01\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T18:32:05.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\solly\\source\\repos\\CITA255 Assignment 01\\CITA255 Assignment 01\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CITA255 Assignment 01\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\solly\\source\\repos\\CITA255 Assignment 01\\CITA255 Assignment 01\\MainPage.xaml.cs",
+              "RelativeToolTip": "CITA255 Assignment 01\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T19:03:37.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\solly\\source\\repos\\CITA255 Assignment 01\\CITA255 Assignment 01\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CITA255 Assignment 01\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\solly\\source\\repos\\CITA255 Assignment 01\\CITA255 Assignment 01\\MainPage.xaml",
+              "RelativeToolTip": "CITA255 Assignment 01\\MainPage.xaml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-08T20:48:37.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
